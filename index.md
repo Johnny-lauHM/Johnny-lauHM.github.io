@@ -42,9 +42,20 @@ My research focuses on teaching robots to act in the physical world — vision-l
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Invention Patent — Multimodal Efficient Power Conversion for Electric Vehicles (Published)</div>
+    <div class="title">A V2G Bidirectional DC-DC Converter Circuit</div>
     <div class="author"><strong>Haoming Liu</strong> et al.</div>
-    <div class="periodical"><em>Chinese Invention Patent, published. (2 patents filed)</em></div>
+    <div class="periodical"><em>Chinese Invention Patent, CN119134906A. Granted, Sep. 2024.</em></div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">A V2G Bidirectional AC-DC Converter Based on Hybrid AC-DC Topology and Its Control Strategy</div>
+    <div class="author"><strong>Haoming Liu</strong> et al.</div>
+    <div class="periodical"><em>Chinese Invention Patent, CN120377691A. Under examination, Jul. 2025.</em></div>
   </div>
 </div>
 </li>
@@ -113,6 +124,13 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 - **Ronovo Surgical** — Software Engineering Intern, Shanghai *(Jan. 2026 – May 2026)*<br>
   Built a Pico-headset VR teleoperation system for surgical robots (XR tracking → DDS comms → stereo video feedback, 50–100 ms latency). Developed an RCM-constrained IK solver in MuJoCo with null-space singularity avoidance and gravity compensation.
+
+## 🏆 Honors & Awards
+
+- **SYSU Outstanding Student Scholarship**, 2nd Prize (top 15%) — 2023 & 2024
+- **37 Interactive Entertainment Undergraduate Leadership Scholarship** — 2024
+- **National University Students' Optoelectronic Design Competition**, 3rd Prize — 2025
+- **National Competition in Science & Technology on Renewable Energy for College Students**, 3rd Prize — 2025
 
 ## 🎓 Education
 
