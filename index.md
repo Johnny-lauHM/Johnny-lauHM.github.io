@@ -20,6 +20,39 @@ My research focuses on teaching robots to act in the physical world — vision-l
 - **[Jan. 2026]** Began a Software Engineering internship at Ronovo Surgical, building VR teleoperation for surgical robots.
 - **[Nov. 2025]** Started work on VLA fine-tuning and tactile-visual fusion with the SO-ARM101 platform.
 
+## 📝 Publications & Patents
+
+<div class="publications">
+<ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">MPPT Algorithm Based on Model Solution for PV Array Under Partial Shading Conditions</div>
+    <div class="author">Fu Qing, Yiqi Zeng, <strong>Haoming Liu</strong>, Yuan Jing, Xiaoping Zhou</div>
+    <div class="periodical"><em>ICESI 2025, Journal of Physics: Conference Series, vol. 3163, 012012.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1088/1742-6596/3163/1/012012" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Invention Patent — Multimodal Efficient Power Conversion for Electric Vehicles (Published)</div>
+    <div class="author"><strong>Haoming Liu</strong> et al.</div>
+    <div class="periodical"><em>Chinese Invention Patent, published. (2 patents filed)</em></div>
+  </div>
+</div>
+</li>
+<br>
+
+</ol>
+</div>
+
 ## 🚀 Selected Projects
 
 <div class="publications">
