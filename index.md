@@ -14,7 +14,7 @@ My research focuses on teaching robots to act in the physical world — vision-l
 - **Dexterous Manipulation:** contact-rich tasks, tactile-visual fusion, multi-fingered hands
 - **Teleoperation & Data Collection:** bimanual glove/tracker retargeting, VR teleoperation, real-time IK
 
-## 🔥 News
+## News
 
 - **[Jul. 2026]** Started my research on high-DoF teleoperation for contact-rich dexterous manipulation.
 - **[Jul. 3, 2026]** Joined the G&M Lab at NUS, led by Asst. Prof. Jianshu Zhou.
@@ -22,7 +22,7 @@ My research focuses on teaching robots to act in the physical world — vision-l
 - **[Jan. 2026]** Began a Software Engineering internship at Ronovo Surgical, building VR teleoperation for surgical robots.
 - **[Nov. 2025]** Started work on VLA fine-tuning and tactile-visual fusion with the SO-ARM101 platform.
 
-## 📝 Publications & Patents
+## Publications & Patents
 
 <div class="publications">
 <ol class="bibliography">
@@ -78,7 +78,7 @@ My research focuses on teaching robots to act in the physical world — vision-l
 </ol>
 </div>
 
-## 🚀 Selected Projects
+## Selected Projects
 
 <div class="publications">
 <ol class="bibliography">
@@ -137,24 +137,24 @@ My research focuses on teaching robots to act in the physical world — vision-l
 </ol>
 </div>
 
-## 💼 Experience
+## Experience
 
 - **Ronovo Surgical** — Software Engineering Intern, Shanghai *(Jan. 2026 – May 2026)*<br>
   Built a Pico-headset VR teleoperation system for surgical robots (XR tracking → DDS comms → stereo video feedback, 50–100 ms latency). Developed an RCM-constrained IK solver in MuJoCo with null-space singularity avoidance and gravity compensation.
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
 - **SYSU Outstanding Student Scholarship**, 2nd Prize (top 15%) — 2023 & 2024
 - **37 Interactive Entertainment Undergraduate Leadership Scholarship** — 2024
 - **National University Students' Optoelectronic Design Competition**, 3rd Prize — 2025
 - **National Competition in Science & Technology on Renewable Energy for College Students**, 3rd Prize — 2025
 
-## 🎓 Education
+## Education
 
 - **National University of Singapore** — M.Sc. in Robotics *(Present)*
 - **Sun Yat-sen University** — B.Sc. in Opto-Electronics Information Science and Engineering *(2022 – 2026)*
 
-## 🛠 Skills
+## Skills
 
 **Programming & Tools:** Python, MATLAB, PSIM, PyTorch, Isaac Lab, MuJoCo<br>
 **Languages:** Mandarin (native), Cantonese (native), English (fluent, IELTS 7.5)
