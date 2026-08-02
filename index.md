@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an M.Sc. student in Robotics at the [National University of Singapore](https://nus.edu.sg/), where I work on **embodied AI** and **robot learning**. I received my B.Sc. in Opto-Electronics Information Science and Engineering from [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/).
+I am an M.Sc. student in Robotics at the [National University of Singapore](https://nus.edu.sg/), where I also work as a student helper in the G&M Lab, led by Asst. Prof. Jianshu Zhou. I focus on **embodied AI** and **robot learning**. I received my B.Sc. in Opto-Electronics Information Science and Engineering from [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/).
 
 My research focuses on teaching robots to act in the physical world — vision-language-action (VLA) models, imitation learning, dexterous manipulation, and high-DoF teleoperation for contact-rich tasks. I enjoy building full-stack systems that span from low-level motor control and IK solvers to end-to-end learned policies.
 
@@ -102,6 +102,18 @@ My research focuses on teaching robots to act in the physical world — vision-l
     <div class="author">Haoming Liu</div>
     <div class="periodical"><em>2025 – 2026</em></div>
     <div>End-to-end imitation-learning system on ROS 2 + MoveIt 2 with RRT* planning. Trained ACT/SmolVLA policies from 50+ expert demonstrations; fused FlexiTac-V2 tactile pressure maps with visual observations, improving real-robot grasping success by 30% over a vision-only baseline (60% pick-and-place success).</div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Micro-Hole Inspection via Optical Swept-Source Interferometry</div>
+    <div class="author">Haoming Liu</div>
+    <div class="periodical"><em>National University Students' Optoelectronic Design Competition (3rd Prize), 2025 – Present</em></div>
+    <div>Built and compared a free-space Michelson white-light interferometer and a fiber-optic Mach-Zehnder (MZ) swept-source interferometer, selecting the fiber-optic setup for its higher signal-to-noise ratio. Applied real-time FFT to the detector's time-domain signal to recover the depth-resolved reflectivity profile (swept-source interferometry), increasing measurement speed while eliminating mechanical scanning — achieving a single-measurement time of ≤ 160 s, a depth range of 4.56 mm, and a depth error of ≤ 6.9 µm.</div>
   </div>
 </div>
 </li>
