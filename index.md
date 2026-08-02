@@ -171,8 +171,22 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 ## Education
 
-- **National University of Singapore** — M.Sc. in Robotics *(Present)*
-- **Sun Yat-sen University** — B.Sc. in Opto-Electronics Information Science and Engineering *(2022 – 2026)*
+<div class="education">
+<div style="display:flex; align-items:center; margin-bottom:16px;">
+  <img src="./assets/img/logo_nus.png" style="width:44px; height:auto; margin-right:16px; flex-shrink:0;">
+  <div>
+    <strong>National University of Singapore</strong><br>
+    M.Sc. in Robotics <em>(Present)</em>
+  </div>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:16px;">
+  <img src="./assets/img/logo_sysu.png" style="width:44px; height:auto; margin-right:16px; flex-shrink:0;">
+  <div>
+    <strong>Sun Yat-sen University</strong><br>
+    B.Sc. in Opto-Electronics Information Science and Engineering <em>(2022 – 2026)</em>
+  </div>
+</div>
+</div>
 
 ## Skills
 
