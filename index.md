@@ -109,11 +109,14 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/proj_interferometry.jpg" class="teaser img-fluid z-depth-1" style="width:100%">
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Micro-Hole Inspection via Optical Swept-Source Interferometry</div>
     <div class="author">Haoming Liu</div>
     <div class="periodical"><em>National University Students' Optoelectronic Design Competition (3rd Prize), 2025 – Present</em></div>
-    <div>Built and compared a free-space Michelson white-light interferometer and a fiber-optic Mach-Zehnder (MZ) swept-source interferometer, selecting the fiber-optic setup for its higher signal-to-noise ratio. Applied real-time FFT to the detector's time-domain signal to recover the depth-resolved reflectivity profile (swept-source interferometry), increasing measurement speed while eliminating mechanical scanning — achieving a single-measurement time of ≤ 160 s, a depth range of 4.56 mm, and a depth error of ≤ 6.9 µm.</div>
+    <div>Built and compared a free-space Michelson white-light interferometer and a fiber-optic Mach-Zehnder (MZ) swept-source interferometer, selecting the fiber-optic setup for its higher signal-to-noise ratio. Applied real-time FFT to the detector's time-domain signal to recover the depth-resolved reflectivity profile (swept-source interferometry), increasing measurement speed while eliminating mechanical scanning — achieving a single-measurement time of ≤ 160 s, a depth range of 4.56 mm, and a depth error of ≤ 6.9 µm. Estimated hole diameter from a three-point circle fit of tracked edge points.</div>
   </div>
 </div>
 </li>
