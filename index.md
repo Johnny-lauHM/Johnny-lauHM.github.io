@@ -17,6 +17,8 @@ My research focuses on teaching robots to act in the physical world — vision-l
 ## 🔥 News
 
 - **[Jul. 2026]** Started my research on high-DoF teleoperation for contact-rich dexterous manipulation.
+- **[Jul. 3, 2026]** Joined the G&M Lab at NUS, led by Asst. Prof. Jianshu Zhou.
+- **[Jun. 24, 2026]** Graduated from Sun Yat-sen University with a B.Sc. degree.
 - **[Jan. 2026]** Began a Software Engineering internship at Ronovo Surgical, building VR teleoperation for surgical robots.
 - **[Nov. 2025]** Started work on VLA fine-tuning and tactile-visual fusion with the SO-ARM101 platform.
 
