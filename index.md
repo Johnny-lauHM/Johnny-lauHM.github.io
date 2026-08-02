@@ -27,6 +27,10 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/pub_mppt.png" class="teaser img-fluid z-depth-1" style="width:100%">
+    <abbr class="badge">JPCS</abbr>
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">MPPT Algorithm Based on Model Solution for PV Array Under Partial Shading Conditions</div>
     <div class="author">Fu Qing, Yiqi Zeng, <strong>Haoming Liu</strong>, Yuan Jing, Xiaoping Zhou</div>
@@ -41,6 +45,10 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/patent_dcdc.png" class="teaser img-fluid z-depth-1" style="width:100%">
+    <abbr class="badge">Patent</abbr>
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">A V2G Bidirectional DC-DC Converter Circuit</div>
     <div class="author"><strong>Haoming Liu</strong> et al.</div>
@@ -52,6 +60,10 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/patent_acdc.png" class="teaser img-fluid z-depth-1" style="width:100%">
+    <abbr class="badge">Patent</abbr>
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">A V2G Bidirectional AC-DC Converter Based on Hybrid AC-DC Topology and Its Control Strategy</div>
     <div class="author"><strong>Haoming Liu</strong> et al.</div>
@@ -107,6 +119,9 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/proj_power_platform.jpg" class="teaser img-fluid z-depth-1" style="width:100%">
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Multimodal Efficient Power Conversion for Electric Vehicles</div>
     <div class="author">Haoming Liu</div>
