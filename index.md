@@ -78,7 +78,7 @@ My research focuses on teaching robots to act in the physical world — vision-l
 </ol>
 </div>
 
-## Selected Projects
+## Research
 
 <div class="publications">
 <ol class="bibliography">
@@ -109,6 +109,11 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <video class="teaser img-fluid z-depth-1" style="width:100%" muted autoplay loop playsinline poster="./assets/img/proj_mecanum_poster.jpg">
+      <source src="./assets/videos/proj_mecanum.mp4" type="video/mp4">
+    </video>
+  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Omnidirectional Intelligent Vehicle (Mecanum Wheels)</div>
     <div class="author">Haoming Liu</div>
