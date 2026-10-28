@@ -85,6 +85,88 @@ My research focuses on teaching robots to act in the physical world — vision-l
 
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <video class="teaser img-fluid z-depth-1" style="width:100%" muted autoplay loop playsinline poster="./assets/img/proj_taste_poster.jpg">
+      <source src="./assets/videos/proj_taste.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">TASTE: Tactile Articulated State Estimation — Solving a Rubik's Cube by Touch</div>
+    <div class="author">Haoming Liu</div>
+    <div class="periodical"><em>Isaac Lab simulation, 2026</em></div>
+    <div>Two Sharpa Wave dexterous hands on Franka FR3 arms estimate the cube's pose and turning-layer angle from fingertip tactile images and joint angles alone (per-pad CNN → GRU), and solve the cube with no camera in the loop. Solves <strong>83.2%</strong> of 256 held-out scrambles blind (90.6% with privileged vision), with a 0.3° median layer-angle error; a full solve chains 77 PPO skills.</div>
+    <div class="links">
+      <a href="https://johnny-lauhm.github.io/TASTE-Tactile-Articulated-STate-Estimation/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Johnny-lauHM/TASTE-Tactile-Articulated-STate-Estimation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <video class="teaser img-fluid z-depth-1" style="width:100%" muted autoplay loop playsinline poster="./assets/img/proj_tacicl_poster.jpg">
+      <source src="./assets/videos/proj_tacicl.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">TacICL: Tactile In-Context Learning for Contact-Rich Insertion</div>
+    <div class="author">Haoming Liu</div>
+    <div class="periodical"><em>UniVTAC / Isaac Sim simulation, 2026</em></div>
+    <div>"Vision gets it close. Touch gets it in." A frozen 3-bit local Qwen VLM plans tube insertion with zero fine-tuning; a GelSight-based jam guard stops each push and translates marker-shear asymmetry into millimetre-level hand corrections (~1 mm residual) fed back through the context. Achieves <strong>24/30</strong> insertions versus 3/30 for vision only (8×).</div>
+    <div class="links">
+      <a href="https://johnny-lauhm.github.io/TacICL/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Johnny-lauHM/TacICL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <video class="teaser img-fluid z-depth-1" style="width:100%" muted autoplay loop playsinline poster="./assets/img/proj_wuji_poster.jpg">
+      <source src="./assets/videos/proj_wuji.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">In-Hand Reorientation with the Wuji Dexterous Hand</div>
+    <div class="author">Haoming Liu</div>
+    <div class="periodical"><em>MuJoCo / mjlab simulation, 2026</em></div>
+    <div>RL in-hand reorientation on wuji-mjlab: a palm-up dodecahedron driven by privileged state or AprilTag visual pose estimation, and a palm-down 45 mm cube rotated to arbitrary SO(3) goals against gravity (<strong>96.2%</strong> goals reached within 8 s). Distilled via DAgger into a vision student using only a wrist D405 camera and joint encoders (90.6% success).</div>
+    <div class="links">
+      <a href="https://johnny-lauhm.github.io/wuji-dexhand-reorient/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Johnny-lauHM/wuji-dexhand-reorient" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/proj_nero.jpg" class="teaser img-fluid z-depth-1" style="width:100%">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">VR Teleoperation for Dual-Arm NERO + TacClaw</div>
+    <div class="author">Haoming Liu</div>
+    <div class="periodical"><em>2026</em></div>
+    <div>100 Hz VR teleoperation of two AgileX NERO 7-DoF arms and two TacClaw grippers from PICO/Quest controllers (XRoboToolkit over USB or OpenArmX over Wi-Fi UDP). Pinocchio IK on a dual-NERO model over ROS 2 and CAN, with grip-clutch takeover, trigger gripper control, staged check/shadow/execute modes and fail-safe timeouts.</div>
+    <div class="links">
+      <a href="https://johnny-lauhm.github.io/nero-vr-teleop/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/Johnny-lauHM/nero-vr-teleop" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">High-DoF Teleoperation for Contact-Rich Dexterous Manipulation</div>
     <div class="author">Haoming Liu</div>
